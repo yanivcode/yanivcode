@@ -1,0 +1,2 @@
+- 👋 Hi, I’m `@yanivcode`
+- 🖥️ I like to learn new things about coding and software
